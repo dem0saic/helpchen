@@ -1,0 +1,18 @@
+Installing Git on Windows:
+
+1. Download the latest Git for Windows installer from the Git website: https://git-scm.com/download/win
+2. Run the installer and follow the prompts to install Git. During installation, accept the default settings unless you have specific preferences.
+3. Once installed, open the Git Bash application to start using Git in the command line.
+
+Installing Git on macOS:
+
+1. The easiest way to install Git on macOS is to use the Homebrew package manager. If you don't have Homebrew installed, open Terminal and run: /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+2. After installing Homebrew, install Git by running: brew install git
+3. Verify the installation by typing: git --version
+
+Installing Git on Linux (Ubuntu/Debian):
+
+1. Open Terminal.
+2. Update your package lists: sudo apt-get update
+3. Install Git: sudo apt-get install git
+4. Verify the installation by typing: git --version
