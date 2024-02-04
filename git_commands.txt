@@ -1,0 +1,20 @@
+1. git init - Initialize a new Git repository
+2. git clone [url] - Clone a repository into a new directory
+3. git add [file] - Add a file to the staging area
+4. git commit -m "[message]" - Commit the staged changes with a message
+5. git status - Show the working tree status
+6. git push [remote] [branch] - Update remote refs with local refs
+7. git pull [remote] - Fetch from and integrate with another repository
+8. git branch - List, create, or delete branches
+9. git checkout [branch-name] - Switch branches or restore working tree files
+10. git merge [branch] - Join two or more development histories together
+11. git diff - Show changes between commits, commit and working tree, etc
+12. git reset [file] - Unstage a file while retaining the changes in working directory
+13. git log - Show commit logs
+14. git fetch [remote] - Download objects and refs from another repository
+15. git rm [file] - Remove files from the working tree and from the index
+16. git config --global user.name "[name]" - Define the author name to be used for all commits by the current user
+17. git config --global user.email "[email address]" - Define the author email to be used for all commits by the current user
+18. git tag - Create, list, delete or verify a tag object signed with GPG
+19. git stash - Stash the changes in a dirty working directory away
+20. git rebase [branch] - Reapply commits on top of another base tip
